@@ -171,4 +171,8 @@ id sem consectetuer libero luctus adipiscing.
 
 ---
 
+## Инструкция для работы с GitHub
+
+***
+
 ## Заключение
